@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FilmAffinityBot.iml" filepath="$PROJECT_DIR$/.idea/FilmAffinityBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GafapastaBot.iml" filepath="$PROJECT_DIR$/.idea/GafapastaBot.iml" />
+    </modules>
+  </component>
+</project>
